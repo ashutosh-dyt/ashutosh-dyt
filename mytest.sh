@@ -4,4 +4,4 @@ cal
 echo "bye"
 echo "new code added"
 echo "github trigger auto"
-echo "webhook check"
+echo "webhook checking"
